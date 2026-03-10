@@ -30,7 +30,8 @@ function App() {
     <div style={{textAlign:"center",marginTop:"100px"}}>
       <h1>My First React Website</h1>
       <p>This website is hosted for free.</p>
-      <button>Click Me</button>
+      <p>updated 1</p>
+      <button>Click Me </button>
     </div>
   );
 }
